@@ -49,6 +49,12 @@ body {
     text-decoration: underline;
 }
 
+.flex-box{
+    display: flex; 
+    align-items: center;
+    justify-content: space-between; 
+}
+
 /*Diseño para movil*/
 .grid-css {
     display: grid;
